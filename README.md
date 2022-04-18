@@ -7,10 +7,13 @@ PLL and DB1F1 pads along with D1F1 anchor point.
 
 0805 SMD Resistor 1-10k recommended.
 
+--------------------------------------------
 
 Qsb v107_2022-04-18.zip is the Gerber Output
 
 RGH3 Phat QSB v1.zip is a .brd file
+
+--------------------------------------------
 
 Will keep editing the file a bit but here is what I've created so far.
 
