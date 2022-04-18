@@ -22,3 +22,5 @@ Will keep editing the file a bit but here is what I've created so far.
 Install from the pcbs created by OshPark
 
 ![installsm](https://user-images.githubusercontent.com/22463607/163845301-da679a6a-ecb1-4f83-aa90-cecc3793df3e.jpg)
+
+![postsm](https://user-images.githubusercontent.com/22463607/163862075-df4b7b36-38b8-43ad-b149-e34a9735025c.jpg)
