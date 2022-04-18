@@ -11,4 +11,4 @@ Will keep editing the file a bit but here is what created so far.
 
 Install from the pcbs made by OshPark
 
-![install](https://user-images.githubusercontent.com/22463607/163845086-303c2847-e70a-4d2c-8cd6-85edc08fda39.jpg)
+![installsm](https://user-images.githubusercontent.com/22463607/163845301-da679a6a-ecb1-4f83-aa90-cecc3793df3e.jpg)
