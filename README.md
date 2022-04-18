@@ -1,7 +1,7 @@
 # Reset Glitch Hack 3 Phat QSB v1
 Reset Glitch Hack 3 Phat Quick Solder Board v1
 
-First pcb I've designed very simple but learned a bit about Fusio360 and pcb design in general.
+First pcb I've designed very simple but learned a bit about Fusion360 and pcb design in general.
 
 PLL and DB1F1 pads along with D1F1 anchor point.
 
