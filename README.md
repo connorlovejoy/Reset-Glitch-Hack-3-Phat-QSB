@@ -12,7 +12,7 @@ Qsb v107_2022-04-18.zip is the Gerber Output
 
 RGH3 Phat QSB v1.zip is a .brd file
 
-Will keep editing the file a bit but here is what created so far.
+Will keep editing the file a bit but here is what I've created so far.
 
 3DPCB
 
