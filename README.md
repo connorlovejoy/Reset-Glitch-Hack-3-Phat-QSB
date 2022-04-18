@@ -1,11 +1,15 @@
-# Reset Glitch Hack 3 Phat QSB
+# Reset Glitch Hack 3 Phat QSB v1
 Reset Glitch Hack 3 Phat Quick Solder Board v1
 
-First pcb I've designed very simple but learned a bit about the Fusio360 and pcb design in general.
+PLL and DB1F1 pads along with D1F1 mounting point.
+
+0805 SMD Resistor 1-10k recommended.
+
+First pcb I've designed very simple but learned a bit about Fusio360 and pcb design in general.
 
 Qsb v107_2022-04-18.zip is the Gerber Output
 
-RGH3 Phat QSB v1.zip is a .brd
+RGH3 Phat QSB v1.zip is a .brd file
 
 Will keep editing the file a bit but here is what created so far.
 
