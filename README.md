@@ -1,7 +1,7 @@
 # Reset Glitch Hack 3 Phat QSB v1
 Reset Glitch Hack 3 Phat Quick Solder Board v1
 
-PLL and DB1F1 pads along with D1F1 anchor point.
+PLL and DB1F1 pads and a D1F1 anchor point.
 
 0805 SMD Resistor 1-10k recommended.
 
