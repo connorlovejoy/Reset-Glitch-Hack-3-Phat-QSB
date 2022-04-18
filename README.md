@@ -1,7 +1,5 @@
 # Reset Glitch Hack 3 Phat QSB
-Reset Glitch Hack 3 Phat Quick Solder Board
-
-First pcb design I've created seems to work just fine.
+Reset Glitch Hack 3 Phat Quick Solder Board v1
 
 Will keep editing the file a bit but here is what created so far.
 
