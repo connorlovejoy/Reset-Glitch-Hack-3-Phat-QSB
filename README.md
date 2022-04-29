@@ -2,11 +2,10 @@
 
 
 Reset Glitch Hack 3 Phat Quick Solder Board V1/2
--------------------------------------
 
-PLL and DB1F1 pads and a D1F1 anchor point.
+PLL and DB1F1 pads & D1F1 anchor point.
 
-0805 SMD Resistor 1-10k recommended.
+0805 SMD Resistor (1-10k recommended).
 
 --------------------------------------------
 
