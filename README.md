@@ -7,13 +7,17 @@ PLL and DB1F1 pads and a D1F1 anchor point.
 
 --------------------------------------------
 
-Qsb v107_2022-04-18.zip is the Gerber Output
+![v1](https://github.com/connorlovejoy/Reset-Glitch-Hack-3-Phat-QSB/blob/main/v1qsb.png)
 
-RGH3 Phat QSB v1.zip is a .brd file
+V1 Gerber:
+Phat_Qsbv1_2022-04-28.zip
+
+![v2](https://github.com/connorlovejoy/Reset-Glitch-Hack-3-Phat-QSB/blob/main/v2qsb.png)
+
+V2 Gerber:
+Phat_Qsbv2_2022-04-28.zip 
 
 --------------------------------------------
-
-Will keep editing the file a bit but here is what I've created so far.
 
 3DPCB
 
