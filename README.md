@@ -1,7 +1,8 @@
 # Reset Glitch Hack 3 Phat QSB V1/2
--------------------------------------
 
-Reset Glitch Hack 3 Phat Quick Solder Board v1
+
+Reset Glitch Hack 3 Phat Quick Solder Board V1/2
+-------------------------------------
 
 PLL and DB1F1 pads and a D1F1 anchor point.
 
