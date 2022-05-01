@@ -12,12 +12,12 @@ PLL and DB1F1 pads & D1F1 anchor point.
 ![v1](https://github.com/connorlovejoy/Reset-Glitch-Hack-3-Phat-QSB/blob/main/v1qsb.png)
 
 V1 Gerber:
-Phat_Qsbv1_2022-04-28.zip
+Qsb_2022-05-01.zip
 
 ![v2](https://github.com/connorlovejoy/Reset-Glitch-Hack-3-Phat-QSB/blob/main/v2qsb.png)
 
 V2 Gerber:
-Phat_Qsbv2_2022-04-28.zip 
+Qsbv2_2022-05-01.zip
 
 --------------------------------------------
 
