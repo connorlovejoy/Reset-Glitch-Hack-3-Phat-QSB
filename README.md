@@ -21,7 +21,7 @@ Qsbv2_2022-05-01.zip
 
 --------------------------------------------
 
-Install from the pcbs created by OshPark
+Install from pcbs created by OshPark
 
 ![installsm](https://user-images.githubusercontent.com/22463607/163845301-da679a6a-ecb1-4f83-aa90-cecc3793df3e.jpg)
 
