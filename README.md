@@ -7,9 +7,10 @@ PLL and DB1F1 pads & D1F1 anchor point.
 
 0805 SMD Resistor 1-10k recommended.
 
+Pcb thickness: 0.6-0.8
+
 --------------------------------------------
 
-Pcb thickness: 0.6-0.8
 
 ![v1](https://github.com/connorlovejoy/Reset-Glitch-Hack-3-Phat-QSB/blob/main/v1qsb.png)
 
