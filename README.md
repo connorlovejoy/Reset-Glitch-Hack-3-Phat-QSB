@@ -9,6 +9,8 @@ PLL and DB1F1 pads & D1F1 anchor point.
 
 --------------------------------------------
 
+Pcb thickness: .6-.8
+
 ![v1](https://github.com/connorlovejoy/Reset-Glitch-Hack-3-Phat-QSB/blob/main/v1qsb.png)
 
 V1 Gerber:
