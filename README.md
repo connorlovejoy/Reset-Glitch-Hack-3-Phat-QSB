@@ -1,12 +1,11 @@
 # Reset Glitch Hack 3 Phat PLL QSB V1/2
 
-
 Reset Glitch Hack 3 Phat PLL Quick Solder Board
-for Falcon & Jasper motherboards
+for Falcon & Jasper motherboards.
 
 PLL and DB1F1 pads & D1F1 anchor point.
 
-0805 SMD Resistor recommended (1-10k).
+0805 SMD Resistor 1-10k recommended.
 
 --------------------------------------------
 
